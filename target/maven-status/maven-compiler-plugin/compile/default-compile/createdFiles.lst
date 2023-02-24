@@ -1,0 +1,5 @@
+com\hashedin\mailServer\service\EmailService.class
+com\hashedin\mailServer\service\EmailServiceImpl.class
+com\hashedin\mailServer\controller\EmailController.class
+com\hashedin\mailServer\utils\EmailDetails.class
+com\hashedin\mailServer\MailServerApplication.class
